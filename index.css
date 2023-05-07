@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+
+}
+
+button {
+	color: white;
+	background-color: black;
+	border-color: white;
+}
+
+button a {
+	text-decoration: none;
+	color: white;
+}

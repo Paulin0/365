@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.deleteIntroScript {
+	color: black;
+}
+
+#screen {
+	height: 40vh;
+	background-color: white;
+	color: black;
+}
+
+.interactiveBtn {
+	color: white;
+	background-color: black;
+	border-color: white;
+}
+
+#container {
+	display: flex;
+	flex-direction: row;
+}
+
+#right {
+	width: 100px;
+}
